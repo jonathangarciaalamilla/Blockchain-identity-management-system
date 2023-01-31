@@ -3,4 +3,5 @@ A JavaScript implementation of a simple blockchain-based identity management sys
 Uses the SHA256 hash function from the Crypto-js library. The blockchain is implemented using classes for Blocks and the Blockchain. The DIMS is implemented as a class that uses the Blockchain class for storing the identities (id, name, dob, and address)
 
 # requirements
-Node.js & Crypto-js library
+- Node.js
+- Crypto-js library
