@@ -82,3 +82,4 @@ dim.addIdentity(new Identity(2, "Jane Doe", "01-01-2001", "2 Main St"));
 
 console.log(JSON.stringify(dim.identityChain, null, 4));
 console.log("Identity of John Doe:", JSON.stringify(dim.getIdentity(1), null, 4));
+
